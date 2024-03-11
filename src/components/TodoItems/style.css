@@ -1,0 +1,17 @@
+.todo-list-item {
+    list-style-type: none;
+    background-color: #3a4076;
+    padding: 20px 40px;
+    margin: 20px 0px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 20px;
+    color: #fff;
+}
+.options{
+    display: flex;
+    justify-content: space-around;
+    width: 20%;
+}
